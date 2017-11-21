@@ -1,0 +1,4 @@
+name: Ningsong's Energy Journal
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
