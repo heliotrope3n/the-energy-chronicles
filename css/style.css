@@ -8,6 +8,10 @@ body {
 
 h1 {
     font-family: 'PT Sans';
+    font-size: 3em;
+}
+p {
+    font-size: 1em;
 }
 
 
@@ -24,6 +28,7 @@ nav li {
 }
 
 nav li a {
+    font-family: 'PT Sans';
     display: block;
     color: #111111;
     text-align: center;
