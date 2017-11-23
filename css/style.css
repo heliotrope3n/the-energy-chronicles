@@ -3,7 +3,12 @@ html {
 }
 
 body {
-    padding: 0em 5em 0em 5em;
+    padding: 0em 3em 0em 3em;
+}
+@media screen and (min-width: 900px) {
+    body {
+        padding: 0em 5em 0em 5em
+    }
 }
 
 h1 {
@@ -37,7 +42,7 @@ nav li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+nav li a:hover {
     background-color: #EEEEEE;
 }
 
