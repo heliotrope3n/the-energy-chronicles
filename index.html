@@ -2,22 +2,29 @@
 layout: default
 title: Ningsong's Energy Journal
 ---
+
+<!-- link to main stylesheet -->
+<link rel="stylesheet" type="text/css" href="/css/normalize.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+
 <div class="blurb">
     <p>Hi there, I'm Ningsong Shen</p>
     <h1>This is the Energy Journal</h1>
     <p>This website will be updated daily with something I learned about energy in Grade 11 physics.</p>
     <p>Please, head over to the <a href="/energy-journal/blog">blog</a> page for the posts.</p>
     <p>This website is obviously not finished, and will never be finished.</p>
-
-    {% for post in site.posts %}
-    <article>
-        <h2>
-            <a href="{{ post.url }}">
-                {{ post.title }}
-            </a>
-        </h2>
-        <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-        {{ post.content }}
-    </article>
-    {% endfor %}
 </div><!-- /.blurb -->
+
+{% for post in site.posts %}
+<article>
+    <hr/>
+    <h2>
+        <a href="{{ post.url }}">
+            {{ post.title }}
+        </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+    <br/>
+</article>
+{% endfor %}

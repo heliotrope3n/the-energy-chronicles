@@ -19,6 +19,9 @@ p {
     font-size: 1em;
 }
 
+hr {
+    border-top: 1em double #8c8b8b;
+}
 
 nav ul {
     list-style-type: none;
