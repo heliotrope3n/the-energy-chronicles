@@ -8,7 +8,7 @@ Today we worked on worksheets in groups to learn about work.
 
 ## Today I learned:
 
-Originally, the equation for work was W = F&Delta;d. Today, the equation was changed to be W = |F||&Delta;d|cos&Theta;. This new equation reflects the possibility of positive or negative work being done, which means that the object moves forward or backwards. Of course, all of this is relative depending on which way forward is set. Negative work means energy is lost (e.g. going forward but slowing down).
+Originally, the equation for work was W=F&Delta;d. Today, the equation was changed to be W = \|F\|\|&Delta;d\|cos&Theta;. This new equation reflects the possibility of positive or negative work being done, which means that the object moves forward or backwards. Of course, all of this is relative depending on which way forward is set. Negative work means energy is lost (e.g. going forward but slowing down).
 
 Net work is the total work being done on the system, including positive and negative work. A great example of this is pushing an object forward on a normal table: it includes the work done by the applied force and the work done by the friction force. The kinetic energy net work theorem (or work energy principle) is represented by Wnet = Ekb - Eka = &Delta;Ek. The net change in energy is equal to the net work being done. This is similar to forces and kinematics, where measurements are vectors and there is a net vector in the end.
 

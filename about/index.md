@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About Ningsong's Energy Journal
+title: About the ENERGY CHRONICLES
 ---
 
-# About the Energy Journal
+# About the ENERGY CHRONICLES
 
 Hi this is the about page
 

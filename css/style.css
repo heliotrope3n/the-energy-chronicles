@@ -15,12 +15,19 @@ h1 {
     font-family: 'PT Sans';
     font-size: 3em;
 }
+
+.home h1 {
+    font-size: 5em;
+}
+article h2 a {
+    font-size: 2em;
+}
 p {
     font-size: 1em;
 }
 
 hr {
-    border-top: 1em double #8c8b8b;
+    border-top: 0.5em double #000000;
 }
 
 nav ul {

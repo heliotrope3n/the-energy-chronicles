@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ningsong's Energy Journal Launch"
+title: "Ningsong's Energy Chronicle Launch"
 date: 2017-11-20
 ---
 

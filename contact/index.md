@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Ningsong's Energy Journal
+title: About the ENERGY CHRONICLES
 ---
 
-# Contact the Energy Journal
+# Contact the ENERGY CHRONICLES
