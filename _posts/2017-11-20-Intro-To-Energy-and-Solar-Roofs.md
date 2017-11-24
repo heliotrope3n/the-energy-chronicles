@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Intro to Energy and Solar Roofs"
+title: "Intro To Energy and Solar Roofs"
 date: 2017-11-20
 ---
 
 ## Formatting
 
-Every blog post will have a 3 2 1 section as mandated - 3 things I learned, 2 questions I have, and 1 intriguing idea. As easy as 3 2 1!
+The beginning of each post will include a brief statement a summary of what we did in class. Every blog post will usually have a 3 2 1 section as mandated - 3 things I learned, 2 questions I have, and 1 intriguing idea. As easy as 3 2 1!
 
-I will also include a brief ramble of thoughts after this mandated section. Now, on to today's content!
+I will also include a brief ramble of thoughts after this mandated section, if available. Now, on to today's content!
+
+Today, we chose new groups for the new unit. The debatable question was whether or not solar panels should be mandated on people's homes, 
 
 ## Today I learned...
 
@@ -20,9 +22,7 @@ Work is when a force causes an object to be displaced. A net force of zero means
 
 ### Asides
 
-Bullying can be a serious problem in schools, and many children do not fully understand it.
-
-Even though bullying awareness has been going on for quite a long time, bullying is still present and it appears that the awareness has gone to waste.
+Bullying can be a serious problem in schools, and many children do not fully understand it. Even though bullying awareness has been going on for quite a long time, bullying is still present and it appears that the awareness has gone to waste.
 
 ## Today I wondered...
 

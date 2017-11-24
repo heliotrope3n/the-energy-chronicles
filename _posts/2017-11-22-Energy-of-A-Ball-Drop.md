@@ -4,6 +4,8 @@ title: "Energy of a Ball Drop"
 date: 2017-11-22
 ---
 
+Today we worked on a worksheet with our group, which involved dropping tennis balls and using a photo gate.
+
 ## Today I learned:
 
 When dropping a ball, the starting energy is always potential and right before the ball hits the ground the energy will always be kinetic.
