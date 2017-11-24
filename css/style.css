@@ -44,6 +44,7 @@ nav li {
 
 nav li a {
     font-family: 'PT Sans';
+    font-size: 1.5em;
     display: block;
     color: #111111;
     text-align: center;
@@ -60,4 +61,16 @@ footer ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+nav ul {
+    background-color: #FFFFFF;
+}
+
+.nav-head li a {
+    font-weight: 900;
+    background-color: #111111;
+    color: #FFFFFF;
+}
+.nav-head a:hover {
+    color: #222222
 }
