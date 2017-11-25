@@ -6,4 +6,4 @@ permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
   
-  root: /the-energy-chronicles
+root: /the-energy-chronicles
