@@ -2,6 +2,7 @@
 layout: post
 title: "I'm Working Very Hard"
 date: 2017-11-23
+comments: true
 ---
 
 Today we worked on worksheets in groups to learn about work.

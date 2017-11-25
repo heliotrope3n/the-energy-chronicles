@@ -4,8 +4,8 @@
         <title>{{ page.title }}</title>
 
         <!-- link to main stylesheet -->
-        <link rel="stylesheet" type="text/css" href="../css/normalize.css">
-        <link rel="stylesheet" type="text/css" href="../css/style.css">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/style.css">
 
         <!-- fonts -->
         <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
@@ -14,11 +14,11 @@
     <body>
         <nav>
             <ul>
-                <span class="nav-head"><li><a href="/the-energy-chronicles">t-E-CH</a></li></span>
-                <li><a href="/the-energy-chronicles">Home</a></li>
-                <li><a href="/the-energy-chronicles/blog">Archives</a></li>
-                <li><a href="/the-energy-chronicles/about">About</a></li>
-                <li><a href="/the-energy-chronicles/contact">Contact</a></li>
+                <span class="nav-head"><li><a href="{{ site.url }}">t-E-CH</a></li></span>
+                <li><a href="{{ site.url }}">Home</a></li>
+                <li><a href="{{ site.url }}/blog">Archives</a></li>
+                <li><a href="{{ site.url }}/about">About</a></li>
+                <li><a href="{{ site.url }}/contact">Contact</a></li>
             </ul>
         </nav>
         <div class="within-padding">

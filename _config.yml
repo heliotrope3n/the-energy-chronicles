@@ -2,7 +2,7 @@ name: the ENERGY CHRONICLES
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
-
+url: https://heliotrope3n.github.io/the-energy-chronicles
 plugins:
   - jekyll-sitemap
   

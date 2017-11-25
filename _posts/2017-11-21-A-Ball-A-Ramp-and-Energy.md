@@ -2,6 +2,7 @@
 layout: post
 title: "A Ball, A Ramp, and Energy"
 date: 2017-11-21
+comments: true
 ---
 
 Today we used a tennis ball and rolled it down a ramp to learn about the different types of energy being involved.

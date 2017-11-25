@@ -2,6 +2,7 @@
 layout: post
 title: "Energy of a Ball Drop"
 date: 2017-11-22
+comments: true
 ---
 
 Today we worked on a worksheet with our group, which involved dropping tennis balls and using a photo gate.
