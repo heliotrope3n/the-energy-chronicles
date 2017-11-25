@@ -112,3 +112,9 @@ nav {
     color: #555555;
     font-size: 1.5em;
 }
+
+footer {
+    width: 100%;
+    background-color: #111111;
+    color: #EEEEEE;
+}
