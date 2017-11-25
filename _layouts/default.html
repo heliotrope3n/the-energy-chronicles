@@ -1,39 +1,49 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-            
-			<!-- link to main stylesheet -->
-            <link rel="stylesheet" type="text/css" href="../css/normalize.css">
-			<link rel="stylesheet" type="text/css" href="../css/style.css">
-            
-            <!-- fonts -->
-            <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
-            <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-                    <span class="nav-head"><li><a href="/the-energy-chronicles">t-E-CH</a></li></span>
-	        		<li><a href="/the-energy-chronicles">Home</a></li>
-		        	<li><a href="/the-energy-chronicles/blog">Blog</a></li>
-	        		<li><a href="/the-energy-chronicles/about">About</a></li>
-	        		<li><a href="/the-energy-chronicles/contact">Contact</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+
+        <!-- link to main stylesheet -->
+        <link rel="stylesheet" type="text/css" href="../css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+
+        <!-- fonts -->
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <span class="nav-head"><li><a href="/the-energy-chronicles">t-E-CH</a></li></span>
+                <li><a href="/the-energy-chronicles">Home</a></li>
+                <li><a href="/the-energy-chronicles/blog">Archives</a></li>
+                <li><a href="/the-energy-chronicles/about">About</a></li>
+                <li><a href="/the-energy-chronicles/contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="within-padding">
+            <br/>
+            <div class="container">
+
+                {{ content }}
+
+            </div><!-- /.container -->
+            <footer>
                 <br/>
-	    		<ul>
-	        		<li>Send love for these posts!</li>
+                <ul>
+                    <li>Send love for these posts!</li>
                     <li><a href="mailto:ningsongshen123@outlook.com">email</a></li>
-	        		<li><a href="https://github.com/heliotrope3n/the-energy-chronicles">github.com/heliotrope3n/the-energy-chronicles</a></li>
+                    <li><a href="https://github.com/heliotrope3n/the-energy-chronicles">github.com/heliotrope3n/the-energy-chronicles</a></li>
                     <li><a href="https://heliotrope3n.github.io">heliotrope3n.github.io</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+                </ul>
+            </footer>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                var contentPlacement = $('nav').position().top + $('nav').height();
+                $('.within-padding').css('margin-top',contentPlacement);
+            });
+        </script>
+    </body>
+</html>
