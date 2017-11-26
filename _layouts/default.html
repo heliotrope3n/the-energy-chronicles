@@ -15,19 +15,27 @@
         <nav>
             <ul>
                 <span class="nav-head"><li><a href="{{ site.url }}">t-E-CH</a></li></span>
-                <li><a href="{{ site.url }}">Home</a></li>
-                <li><a href="{{ site.url }}/blog">Archives</a></li>
-                <li><a href="{{ site.url }}/about">About</a></li>
-                <li><a href="{{ site.url }}/contact">Contact</a></li>
+                <li><a href="{{ site.url }}" id="nav-home">Home</a></li>
+                <li><a href="{{ site.url }}/blog" id="nav-blog">Posts</a></li>
+                <li><a href="{{ site.url }}/about" id="nav-about">About</a></li>
+                <div class="nav-right">
+                    <li><a href="https://facebook.com/theENERGYCHRONICLES" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                    <li><a href="https://instagram.com/theENERGYCHRONICLES" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                    <li><a href="https://github.com/the-energy-chronicles" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+                </div>
             </ul>
         </nav>
         <div class="within-padding">
-            <br/>
+            <h1 id="mainhead">the ENERGY CHRONICLES</h1>
+            <div class="content-page-width headline">
+                <p id="headline2">Ningsong Shen. Grade 11 Physics student. Learning about ENERGY. Website updates daily. Never finished. #FongFizX</p>
+            </div>
             <div class="container">
 
                 {{ content }}
 
             </div><!-- /.container -->
+            </div>
             <footer>
                 <br/>
                 <ul>
@@ -37,12 +45,39 @@
                     <li><a href="https://heliotrope3n.github.io">heliotrope3n.github.io</a></li>
                 </ul>
             </footer>
-        </div>
+        
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://use.fontawesome.com/b8cc957f87.js"></script>
         <script>
+            // The sticky navbar and content positioning below
             $(document).ready(function() {
                 var contentPlacement = $('nav').position().top + $('nav').height();
                 $('.within-padding').css('margin-top',contentPlacement);
+                
+                
+            });
+            
+            // The logo to show up after scroll
+            $(document).ready(function(){
+                 //hides them logo when the page loads
+                 $(".nav-head").hide();
+            });
+
+            $(document).scroll(function () {
+            var y = $(document).scrollTop(),
+               image = $(".nav-head"),
+               header = $("nav");
+
+
+            if (y >= 100) {
+                //show the image and make the header fixed
+                header.addClass('fixed');
+                image.show();
+            } else {
+                //put the header in original position and hide image
+                header.removeClass('fixed');
+                image.hide();
+            }
             });
         </script>
     </body>

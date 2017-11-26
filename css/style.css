@@ -18,6 +18,18 @@ nav {
     box-sizing: border-box;
     z-index: 999;
 }
+
+footer {
+    width: 100%;
+    background-color: #111111;
+    color: #EEEEEE;
+    padding: 0em 1em 0em 1em;
+}
+.headline {
+    background-color: aqua;
+    padding: 0em 1em 0em 5em
+}
+
 .within-padding {
     padding: 0em 1em 0em 1em;
 }
@@ -28,6 +40,12 @@ nav {
     nav {
         padding: 0em 5em 0em 5em;
     }
+    footer {
+        padding: 0em 5em 0em 5em;
+    }
+    .headline {
+        padding: 1em 5em 1em 5em;
+    }
 }
 
 h1 {
@@ -35,8 +53,9 @@ h1 {
     font-size: 3em;
 }
 
-.home h1 {
+#mainhead {
     font-size: 5em;
+    margin-bottom: 0em;
 }
 article h2 a {
     font-size: 2em;
@@ -46,7 +65,7 @@ p {
 }
 
 hr {
-    border-top: 0.5em double #000000;
+    border-top: 2em solid #00FFFF;
 }
 
 nav ul {
@@ -112,3 +131,16 @@ nav {
     color: #555555;
     font-size: 1.5em;
 }
+
+
+
+.content-page-width {
+     margin-left: calc(50% - 50vw);
+     width: 100vw;
+     overflow: visible;
+}
+
+.nav-right {
+    float: right;
+}
+
