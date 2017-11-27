@@ -26,26 +26,44 @@
             </ul>
         </nav>
         <div class="within-padding">
+            <br/>
             <h1 id="mainhead">the ENERGY CHRONICLES</h1>
-            <div class="content-page-width headline">
-                <p id="headline2">Ningsong Shen. Grade 11 Physics student. Learning about ENERGY. Website updates daily. Never finished. #FongFizX</p>
-            </div>
+            <p id="headline">Ningsong Shen. Grade 11 Physics student. Learning about ENERGY. Website updates daily. Never finished. #FongFizX</p>
+
             <div class="container">
 
                 {{ content }}
 
             </div><!-- /.container -->
-            </div>
-            <footer>
+        </div>
+        <footer>
+            <br/>
+            <div class="foot-left">
+                <h2>Did you enjoy the ENERGY CHRONICLES? </h2>
+                <p>Like and share on social media:</p>
+                <p><a class="footer-icon" href="https://facebook.com/theENERGYCHRONICLES" target="_blank"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>&nbsp; &nbsp; &nbsp;<a class="footer-icon" href="https://instagram.com/theENERGYCHRONICLES" target="_blank"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a></p>
+                <p>Add your comment to articles you enjoyed.</p>
                 <br/>
+                <h3>READ THE LATEST POST</h3>
+            </div>
+            <div class="foot-right">
+                <h2>Links</h2>
                 <ul>
-                    <li>Send love for these posts!</li>
-                    <li><a href="mailto:ningsongshen123@outlook.com">email</a></li>
-                    <li><a href="https://github.com/heliotrope3n/the-energy-chronicles">github.com/heliotrope3n/the-energy-chronicles</a></li>
-                    <li><a href="https://heliotrope3n.github.io">heliotrope3n.github.io</a></li>
+                    <li>Home</li>
+                    <li>Recent</li>
+                    <li>Post Listing</li>
+                    <li>About</li>
+                    <li>Comment on Disqus</li>
+                    <li>Like us on Facebook</li>
+                    <li>Follow us on Instagram</li>
+                    <li>Check out code on Github</li>
+                    <li>#FongFizX</li>
                 </ul>
-            </footer>
-        
+            </div>
+            <br/>
+
+        </footer>
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://use.fontawesome.com/b8cc957f87.js"></script>
         <script>
@@ -53,11 +71,11 @@
             $(document).ready(function() {
                 var contentPlacement = $('nav').position().top + $('nav').height();
                 $('.within-padding').css('margin-top',contentPlacement);
-                
-                
+
+
             });
-            
-            // The logo to show up after scroll
+
+            /* The logo to show up after scroll
             $(document).ready(function(){
                  //hides them logo when the page loads
                  $(".nav-head").hide();
@@ -78,7 +96,7 @@
                 header.removeClass('fixed');
                 image.hide();
             }
-            });
+            });*/
         </script>
     </body>
 </html>
