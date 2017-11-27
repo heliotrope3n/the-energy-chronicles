@@ -5,28 +5,31 @@ title: the ENERGY CHRONICLES
 
 
 <div class="home">
-    
-    
-    
+
+
+
     <div class="content-page-width">
         <!--<img src="images/roller_coaster.png" width=100%>-->
     </div>
-</div><!-- /.home -->
 
-{% for post in site.posts %}
-<article>
     <br/>
-    <!--<hr/>-->
-    <br/>
-    <h2>
-        <a href="{{ post.url }}">
-            {{ post.title }}
-        </a>
-    </h2>
-    <span class="post-info"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></span>
-    <br/>
-    {{ post.content }}
-    <br/>
-    <br/>
-</article>
-{% endfor %}
+    
+    {% for post in site.posts %}
+    <article>
+        <br/>
+        <!--<hr/>-->
+        <br/>
+        <h2>
+            <a class="post-title" href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </h2>
+        <span class="post-info"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></span>
+        <br/>
+        <div class="justify">
+        {{ post.content }}</div>
+        <br/>
+        <br/>
+    </article>
+    {% endfor %}
+</div><!-- /.home -->

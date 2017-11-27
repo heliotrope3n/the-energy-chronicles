@@ -20,10 +20,10 @@ nav {
 }
 
 footer {
-    width: 100%;
     background-color: #111111;
     color: #EEEEEE;
-    padding: 0em 1em 0em 1em;
+    padding: 1em 1em 1em 1em;
+    border-bottom: aqua 1em solid;
 }
 .headline {
     background-color: aqua;
@@ -41,7 +41,7 @@ footer {
         padding: 0em 5em 0em 5em;
     }
     footer {
-        padding: 0em 5em 0em 5em;
+        padding: 1em 5em 1em 5em;
     }
     .headline {
         padding: 1em 5em 1em 5em;
@@ -144,3 +144,36 @@ nav {
     float: right;
 }
 
+
+.home {
+    padding: 0em 12em 0em 5em;
+}
+
+.footer-icon {
+    color: #FFFFFF;
+}
+
+.footer-icon a:hover {
+    color: #111111;
+}
+
+.footer-icon:visited {
+    color: #FFFFFF;
+}
+
+.post-title {
+    text-decoration: none;
+}
+
+.post-title:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.justify {
+    text-align: justify;
+}
