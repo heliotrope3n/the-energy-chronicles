@@ -177,3 +177,28 @@ nav {
 .justify {
     text-align: justify;
 }
+
+.posts {
+    font-size: 1.5em;
+    list-style-type: none;
+    text-decoration: none;
+}
+.posts li a {
+    text-decoration: none;
+}
+.posts li a:hover {
+    text-decoration: underline;
+}
+
+.post {
+    padding: 0em 23em 0em 5em;
+}
+
+.directions {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.directions:hover {
+    text-decoration: underline;
+}
