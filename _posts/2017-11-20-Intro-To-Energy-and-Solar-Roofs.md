@@ -16,6 +16,10 @@ Today, we chose new groups for the new unit. The debatable question was whether 
 
 Solar roofs have tremendous potential to save us on energy, but it will be a long and complicated process to implement on everyone's houses.
 
+![Tesla Solar Roof](https://www.tesla.com/sites/default/files/images/marketing/tesla-solar.jpg){: .fullwidth }
+
+##### The Tesla Solar Roof, it looks pretty much like any normal roofing shingles
+
 Energy is not power, energy is the ability to do work. Power is the rate at which energy is used. 
 
 Work is when a force causes an object to be displaced. A net force of zero means that no work is done.
