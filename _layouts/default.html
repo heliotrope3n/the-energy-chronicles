@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
         <title>{{ page.title }}</title>
 
         <!-- link to main stylesheet -->
@@ -10,6 +12,9 @@
         <!-- fonts -->
         <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
+        
+        <!-- jQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     </head>
     <body>
         <nav>
@@ -21,21 +26,26 @@
                 <div class="nav-right">
                     <li><a href="https://facebook.com/theENERGYCHRONICLES" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
                     <li><a href="https://instagram.com/theENERGYCHRONICLES" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                    <li><a href="https://github.com/the-energy-chronicles" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+                    <li><a href="https://github.com/heliotrope3n/the-energy-chronicles" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
                 </div>
             </ul>
         </nav>
         <div class="within-padding">
             <br/>
+            <div class="restricted100">
             <h1 id="mainhead">the ENERGY CHRONICLES</h1>
             <p id="headline">Ningsong Shen. Grade 11 Physics student. Learning about ENERGY. Website updates daily. Never finished. #FongFizX</p>
-
+            </div>
             <div class="container">
 
                 {{ content }}
 
             </div><!-- /.container -->
         </div>
+        
+        <br/>
+        
+        
         <footer>
             <br/>
             <div class="foot-left">
@@ -64,7 +74,7 @@
 
         </footer>
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        
         <script src="https://use.fontawesome.com/b8cc957f87.js"></script>
         <script>
             // The sticky navbar and content positioning below

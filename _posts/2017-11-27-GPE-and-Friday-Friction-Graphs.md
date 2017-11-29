@@ -7,6 +7,12 @@ comments: true
 
 Today in class we learned about Gravitational Potential Energy and how it relates to the movement of an object. This was demonstrated through rolling a ball down from the same height but at different angles, as well as through the use of clickers.
 
+![Mr. Fong today]({{ site.url }}/images/2017-11-27-fong-crazy.jpg){: .fullwidth }
+
+##### Mr. Fong doing a demonstration with two ramps at different slopes
+
+<br/>
+
 ## Today I learned:
 
 When rolled from an incline of the same height, two balls will have the same ending velocity even if the inclines are on different angles. Steeper angle of incline just means that the gravitational potential energy will be transfomed to kinetic energy faster, while a less steep angle means that it will take longer to transform the energy. This means that the ball on a steeper incline will reach the ground in a shorter amount of time (not faster but the same time) as it gets faster at a faster rate, even though both balls will have the same ending velocity.

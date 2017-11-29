@@ -17,6 +17,7 @@ nav {
     -ms-box-sizing: border-box;
     box-sizing: border-box;
     z-index: 999;
+    max-width: 100%;
 }
 
 footer {
@@ -33,29 +34,20 @@ footer {
 .within-padding {
     padding: 0em 1em 0em 1em;
 }
-@media screen and (min-width: 900px) {
-    .within-padding {
-        padding: 0em 5em 0em 5em
-    }
-    nav {
-        padding: 0em 5em 0em 5em;
-    }
-    footer {
-        padding: 1em 5em 1em 5em;
-    }
-    .headline {
-        padding: 1em 5em 1em 5em;
-    }
+#mainhead {
+    font-size: 4em;
+    margin-bottom: 0em;
 }
+
 
 h1 {
     font-family: 'PT Sans';
     font-size: 3em;
 }
 
-#mainhead {
-    font-size: 5em;
-    margin-bottom: 0em;
+
+.restricted100 {
+    max-width: 100%;
 }
 article h2 a {
     font-size: 2em;
@@ -123,9 +115,6 @@ nav ul {
     color: #000000;
 }
 
-nav {
-    
-}
 
 .post-info {
     color: #555555;
@@ -135,9 +124,12 @@ nav {
 
 
 .content-page-width {
-     margin-left: calc(50% - 50vw);
-     width: 100vw;
-     overflow: visible;
+    margin-top: 1em;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% + 50vw);
+    margin-bottom: 1em;
+    width: 100vw;
+    overflow: visible;
 }
 
 .nav-right {
@@ -145,8 +137,11 @@ nav {
 }
 
 
+.post {
+    padding: 0em 1em 0em 1em;
+}
 .home {
-    padding: 0em 12em 0em 5em;
+    padding: 0em 1em 0em 1em;
 }
 
 .footer-icon {
@@ -177,3 +172,70 @@ nav {
 .justify {
     text-align: justify;
 }
+
+.posts {
+    font-size: 1.5em;
+    list-style-type: none;
+    text-decoration: none;
+}
+.posts li a {
+    text-decoration: none;
+}
+.posts li a:hover {
+    text-decoration: underline;
+}
+
+
+.directions {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.directions:hover {
+    text-decoration: underline;
+}
+.fullwidth {
+    width: 100%;
+
+}  
+@media screen and (min-width: 600px) {
+
+}
+
+
+@media screen and (min-width: 900px) {
+    .within-padding {
+        padding: 0em 5em 0em 5em
+    }
+    nav {
+        padding: 0em 5em 0em 5em;
+    }
+    footer {
+        padding: 1em 5em 1em 5em;
+    }
+    .headline {
+        padding: 1em 5em 1em 5em;
+    }
+    #mainhead {
+        font-size: 5em;
+    }
+    .home {
+        padding: 0em 14em 0em 3em;
+    }
+
+    .post {
+        padding: 0em 14em 0em 3em;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+    .post {
+        padding: 0em 23em 0em 3em;
+    }
+    .home {
+        padding: 0em 23em 0em 3em;
+    }
+}
+
+  
