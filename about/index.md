@@ -13,5 +13,9 @@ The best way to contact is to either send me a message on [Facebook](https://fac
 
 Creator: Ningsong Shen
 
+This is a custom-made site for the ENERGY CHRONICLES.
+
+<br/>
+
 
 
