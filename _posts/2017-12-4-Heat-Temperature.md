@@ -11,6 +11,10 @@ Today was a clickers day, we did some learning as a class by answer questions wi
 
 Internal energy is the sum of kinetic and potential energies in a substance. More motion = more internal energy. Higher temperature = higher motion = more internal energy. All particles are moving, and so they all have some sort of heat. Using the Kelvin scale, the lowest possible temperature is 0K, when particles stop moving (not possible yet).
 
+![Food colour in boiling water and cool water]({{ site.url }}/images/2017-12-04-colour-in-water.jpg){: .fullwidth }
+
+##### Because the particles in hot, boiling water are moving faster, there is faster distribution of the food colouring particles that are dropped in. (Red is hot water)
+
 Heat and Temperature are completely different things. Heat, is a measure of the amount of 'hotness' something has (how much hot does it have?). Temperature is a measure of the degree of 'hotness' (how how is it?). This means: a burning ember of 1000 degrees landing on your hand will hurt less than a big cup of coffee of 100 degrees poured on your hand. There is more hotness in the coffee - due to the surface area and the mass.
 
 There are three main ways of heat transfer: 
