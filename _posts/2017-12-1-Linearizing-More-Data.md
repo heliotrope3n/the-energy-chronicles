@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Linearizing More Data"
 date: 2017-12-1
 comments: true
