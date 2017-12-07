@@ -1,8 +1,8 @@
 name: the ENERGY CHRONICLES
 markdown: kramdown
-
-permalink: /blog/:year/:month/:day/:title
+paginate:    7
+paginate_path: "page:num"
 url: https://heliotrope3n.github.io/the-energy-chronicles
 plugins:
   - jekyll-sitemap
-  
+  - jekyll-paginate

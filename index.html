@@ -13,11 +13,11 @@ title: the ENERGY CHRONICLES
     </div>
 
     <br/>
-    
-    {% for post in site.posts %}
+
+    {% for post in site.posts limit:7 %}
     <article>
         <br/>
-        <!--<hr/>-->
+        <hr style="border-top-width: medium;"/>
         <br/>
         <h2>
             <a class="post-title" href="{{ site.url}}{{ post.url }}">
@@ -27,9 +27,33 @@ title: the ENERGY CHRONICLES
         <span class="post-info"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></span>
         <br/>
         <div class="justify">
-        {{ post.content }}</div>
+            {{ post.content }}</div>
         <br/>
         <br/>
     </article>
     {% endfor %}
+
+    <hr style="border-top-width: medium;"/>
+    <a class="directions" style="font-weight: 900;" href="{{ site.url }}/blog"> Older posts &raquo;</a>
+    <br/>
+    <br/>
+    
+    <!-- Pagination links
+<div class="pagination">
+{% if paginator.previous_page %}
+<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+{% else %}
+<span class="previous">Previous</span>
+{% endif %}
+<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+{% if paginator.next_page %}
+<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+{% else %}
+<span class="next ">Next</span>
+{% endif %}
+
+Pagination does not work yet -->
+
+
+</div>
 </div><!-- /.home -->
