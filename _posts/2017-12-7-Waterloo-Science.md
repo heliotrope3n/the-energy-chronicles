@@ -22,6 +22,10 @@ Things I learned:
 3. Quantum computers could have massive computing power. Imagine a today's computer the size of the observable universe and its processing power, fitting into the size of today's laptop.
 3. Using this randomness, we can create truly random keys of large length, and pass them through filters at the sending and receiving end. Using the keys, we can encrypt messages. This is quantum cryptography, and it could be what the future holds.
 
+![Receiver]({{ site.url }}/images/2017-12-07-quantum.jpg){: .fullwidth }
+
+##### This is the receiving part of the quantum encryptor, plus a computer to record the pulses of 1s and 0s
+
 ### Waterloo Science Lab (Physics) (Afternoon)
 
 There were six stations where we were exposed to the tip of the iceberg on many physics concepts.
@@ -30,9 +34,20 @@ There were six stations where we were exposed to the tip of the iceberg on many 
 
 This involved a magnet racing around a magnetic track. The magnet, orginally was not levitating. But when liquid nitrogen was added to the superconductor magnet at -200 degrees C, it levitated and with a simple push, kept going around the track (almost frictionless in the air). There was also a superconductor where we suspended a magnet above it. With a simple push, the magnet kept spinning. This was the coolest station of them all. It also has many applications, from an energy-less motor spinning, to a magnetic levitation train.
 
+<video width="100%" controls autoplay loop muted>
+  <source src="{{site.url}}/images/2017-12-07-magnet.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+##### The superconductor magnet goes around the track with almost no friction
+
 **Holograms: **
 
 Using a laser and a glass plate, an 3d model was projected onto a 2d surface. This was more interesting than just a general 2d image. When viewed through a small peephole, one could move around the peephole and see the entire image. But more fascinating was that one could move one's head around a fixed peephole anywhere on the glass plate, and the entire image would be visible too. This means that on every area of every possible section of the plate there is data about the entire image.
+
+![Hologram]({{ site.url }}/images/2017-12-07-hologram.jpg){: .fullwidth }
+
+##### Every part of the image contains data about every part of the image
 
 **Centrifugal Gravity: **
 
@@ -45,6 +60,10 @@ This game involved sensors which were attatched to our head and measured our con
 **Continuous and Discrete Spectrums: **
 
 This explained the light spectrums when viewing from a quadrilateral shaped device. Looking at white light, there is a full continuous spectrum. But looking at the light emitted from various gasses, there are only a few spots of color and it is a discrete spectrum.
+
+![Spectrum]({{ site.url }}/images/2017-12-07-spectrum.jpg){: .fullwidth }
+
+##### We looked for the spectrum of light emitted from these gases
 
 **Electric Field and LEDs: **
 
@@ -63,4 +82,13 @@ Today was an ye-opening day, and I learned a lot. Yet, I did not learn a lot. It
 
 ### Aside
 
+#### 1
+
 This morning, I took the school bus from home to school. Then, I took another bus from the school to the university, which passed very close to my home. Then on the way home, the bus also passed close to home. Lastly, I carpooled with friends to get home. This was slightly inefficient.
+
+
+#### 2
+
+This is a nanotechnolgy lab. It is built on a separate foundation designed to resist earthquakes and any miniscule movement. It has orange glass to stop harmful light from going out. 
+
+![NanoTech]({{ site.url }}/images/2017-12-07-nanotech.jpg){: .fullwidth }
