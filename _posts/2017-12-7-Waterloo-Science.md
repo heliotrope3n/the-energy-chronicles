@@ -5,7 +5,6 @@ date: 2017-12-07
 comments: true
 ---
 
-*Images coming soon*
 
 Today we had an exciting trip to the University of Waterloo where we participated in various labs and workshops. I did one at the Institue of Quantum Computing and one for physics.
 

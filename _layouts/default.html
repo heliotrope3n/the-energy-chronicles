@@ -12,7 +12,9 @@
         <!-- fonts -->
         <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
-
+        
+        <!-- FAvicon -->
+        <link rel="shortcut icon" type="image/png" href="images/favicon.ico">
         <!-- jQuery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     </head>
@@ -59,36 +61,36 @@
                          {{ post.url }}
                          {% endfor %}"><h3>READ THE LATEST POST</h3></a>
             </div>
-        <div class="foot-right">
-            <h2>Links</h2>
-            <ul>
-                <li>Home</li>
-                <li>Recent</li>
-                <li>Post Listing</li>
-                <li>About</li>
-                <li>Comment on Disqus</li>
-                <li>Like us on Facebook</li>
-                <li>Follow us on Instagram</li>
-                <li>Check out code on Github</li>
-                <li>#FongFizX</li>
-            </ul>
-        </div>
-        <br/>
+            <div class="foot-right">
+                <h2>Links</h2>
+                <ul>
+                    <li>Home</li>
+                    <li>Recent</li>
+                    <li>Post Listing</li>
+                    <li>About</li>
+                    <li>Comment on Disqus</li>
+                    <li>Like us on Facebook</li>
+                    <li>Follow us on Instagram</li>
+                    <li>Check out code on Github</li>
+                    <li>#FongFizX</li>
+                </ul>
+            </div>
+            <br/>
 
         </footer>
 
 
-    <script src="https://use.fontawesome.com/b8cc957f87.js"></script>
-    <script>
-        // The sticky navbar and content positioning below
-        $(document).ready(function() {
-            var contentPlacement = $('nav').position().top + $('nav').height();
-            $('.within-padding').css('margin-top',contentPlacement);
+        <script src="https://use.fontawesome.com/b8cc957f87.js"></script>
+        <script>
+            // The sticky navbar and content positioning below
+            $(document).ready(function() {
+                var contentPlacement = $('nav').position().top + $('nav').height();
+                $('.within-padding').css('margin-top',contentPlacement);
 
 
-        });
+            });
 
-        /* The logo to show up after scroll
+            /* The logo to show up after scroll
             $(document).ready(function(){
                  //hides them logo when the page loads
                  $(".nav-head").hide();
@@ -110,6 +112,6 @@
                 image.hide();
             }
             });*/
-    </script>
+        </script>
     </body>
 </html>
