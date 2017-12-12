@@ -26,7 +26,7 @@ What would the energy be like for getting an solid to a gas? For example, how mu
 
 Why is the f in Lf stand for fusion? When ice becomes water, the particles become more spread out, so they shouldn't really be called 'fusing' together.
 
-## Intriguing throught
+## Today I had an intriguing idea
 
 If the metal cap was colder than the plastic cap, at a certain temperature the two caps would melt the ice cube and finish at the same time. Because the metal cap transfers heat to the icecube faster, it would melt it faster. But since it is colder, it would take longer. At a certain point, they would be the same.
 
