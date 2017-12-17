@@ -27,11 +27,11 @@ layout: default
 <br/>
 <div>
     {% if page.previous.url %}
-    <a class="prev directions" href="{{page.previous.url}}">&laquo; Previous: {{page.previous.title}}</a>
+    <a class="prev directions" href="{{ site.utl }}{{ page.previous.url }}">&laquo; Previous: {{page.previous.title}}</a>
     {% endif %}
     
     {% if page.next.url %}
-    <a style="float: right;" class="next directions" href="{{page.next.url}}">Next: {{page.next.title}} &raquo;</a>
+    <a style="float: right;" class="next directions" href="{{ site.url }}{{ page.next.url }}">Next: {{page.next.title}} &raquo;</a>
     {% endif %}
 </div>
 <br/>
