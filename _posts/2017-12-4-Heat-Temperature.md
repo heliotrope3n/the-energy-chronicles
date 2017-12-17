@@ -9,19 +9,21 @@ Today was a clickers day, we did some learning as a class by answer questions wi
 
 ## Today I learned:
 
-Internal energy is the sum of kinetic and potential energies in a substance. More motion = more internal energy. Higher temperature = higher motion = more internal energy. All particles are moving, and so they all have some sort of heat. Using the Kelvin scale, the lowest possible temperature is 0K, when particles stop moving (not possible yet).
+Internal energy is the sum of kinetic and potential energies in a substance. More motion = more internal energy. Higher temperature = higher motion = more internal energy. All particles are moving, and so they all have some sort of heat. Using the Kelvin scale, the lowest possible temperature is 0K, when particles stop moving (not possible yet). Thermal energy is energy due to temperature.
 
 ![Food colour in boiling water and cool water]({{ site.url }}/images/2017-12-04-colour-in-water.jpg){: .fullwidth }
 
 ##### Because the particles in hot, boiling water are moving faster, there is faster distribution of the food colouring particles that are dropped in. (Red is hot water)
 
-Heat and Temperature are completely different things. Heat, is a measure of the amount of 'hotness' something has (how much hot does it have?). Temperature is a measure of the degree of 'hotness' (how how is it?). This means: a burning ember of 1000 degrees landing on your hand will hurt less than a big cup of coffee of 100 degrees poured on your hand. There is more hotness in the coffee - due to the surface area and the mass.
+Heat and Temperature are completely different things. Heat, is a measure of the amount of 'hotness' something has (how much hot does it have?). Temperature is a measure of the degree of 'hotness' (how how is it?). This means: a burning ember of 1000 degrees landing on your hand will hurt less than a big cup of coffee of 100 degrees poured on your hand. There is more hotness in the coffee - due to the surface area and the mass. 
 
 There are three main ways of heat transfer: 
 
 1. Conduction - which is the transfer of heat by touch.
 2. Convection - transfer of heat through the movement of fluids.
 3. Radiation - transfer of heat through light.
+
+Heat transfer is the transfer of thermal energy due a temperature difference.
 
 Two objects will always tend towards thermal equilibrium, which means their temperatures are the same. Through the different ways of heat transfer, they will tend towards a middle temperature.
 
@@ -38,3 +40,7 @@ Today, one of the intriguing ideas that I learned from class was about opening t
 ### Aside
 
 I noticed, that for humans to come so far in their intellectual abilities and knowledge, it required particles to form in certain ways and behave in certain manners. The human brain, is just particles after all. It is [metacognition](https://en.wikipedia.org/wiki/Metacognition)... Particles are studying particles!
+
+## Analysis
+
+This post connects to requirement #5g. It explains thermal energy, and the differences/similarities between it and heat and temperature. It also goes a bit into heat transfer, which is the transfer of thermal energy. These terms are usually confused, and after learning about it in class, how the above ties into the big picture became much clearer.
