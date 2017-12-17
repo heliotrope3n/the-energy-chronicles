@@ -14,7 +14,7 @@ Today, we chose new groups for the new unit. The debatable question was whether 
 
 ## Today I learned...
 
-Solar roofs have tremendous potential to save us on energy, but it will be a long and complicated process to implement on everyone's houses.
+Solar roofs have tremendous potential to save us on energy, but it will be a long and complicated process to implement on everyone's houses. Today's solar panels are not the most reliable, but as technology improves we should be able to capture more energy and convert it more efficiently. It this was done, it would reduce the need for fossil fuels and possibly solve the world's energy problem - there's almost unlimited energy from the sun.
 
 ![Tesla Solar Roof](https://www.tesla.com/sites/default/files/images/marketing/tesla-solar.jpg){: .fullwidth }
 
@@ -37,3 +37,7 @@ Why is 60% of the power generated in America gone to waste? That is an extremely
 ## Today I had an intriguing idea...
 
 Why don't we just reduce the number of time power has to be transformed for maximum efficiency? For example, when transferring electricity, less transformations would mean that less power and lost, and more efficiency is gained.
+
+## Post Analysis
+
+This post connects to requirement #2. It discusses the impacts of solar roofs, and there are truly a lot of impacts if solar roofs are commercially viable and found to be useful for generating energy. As mentioned above, it would solve a lot of energy problems - especially for power generation. It would also impact things like power distribution, as this could be installed on everyone's houses and as batteries get bigger and better, more power could be stored. There is a picture of a tesla solar roof, which is one of the solar roofs that are currently available. Of course, as the tech improves more types of roofs will be avaiable, increasing competition, increasing innovation, and lowering prices.
