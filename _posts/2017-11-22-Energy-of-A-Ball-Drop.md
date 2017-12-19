@@ -19,7 +19,7 @@ Equations: potential: Eg = mgy, Ek = 1/2 mv^2 When they equate, as is in free fa
 
 ##### Using a photogate connected to a LabQuest, we can figure out where the instantaneous velocity of the ball.
 
-Kinetic and gravitational potential energy are forms of mechanical energy. If total mechanical energy remains the same, mechanical energy is conserved. It will stay the same, unless external forces acton the system. Equation of conserved mechanical energy: Emech = Eka + Ega = Ekb + Egb
+Kinetic and gravitational potential energy are forms of mechanical energy. If total mechanical energy remains the same, mechanical energy is conserved. It will stay the same, unless external forces acton the system. Equation of conserved mechanical energy: Emech = Eka + Ega = Ekb + Egb. We can typically ignore air resistance for the purposes of these experiments.
 
 ## Today I wondered:
 
@@ -30,3 +30,7 @@ On earth, is it every possible for energy to be truly conserved? There will alwa
 ## Today I had an intriguing idea:
 
 I wonder what the energy graphs would look like for a skydiver. At first it would probably be the same, but things would change after the parachute comes out. he kinetic energy is reduced, but I'm not sure if the gravitational potential energy would be reduced.
+
+## Analysis
+
+This post connects to requirement #3, as it is a demonstration of the conversion between kinetic energy and gravitational potential energy. It also mostly demonstrates the law of conservation of energy. When the ball is dropped, it loses the energy it gained from going up so high, and the energy is transformed into kinetic motion so that the ball starts moving faster. The ball also loses virtually no energy, so it conserves mechanical energy which is a great example of the law of conservation of energy.

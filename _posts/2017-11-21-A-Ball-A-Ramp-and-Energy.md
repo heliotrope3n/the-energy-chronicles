@@ -24,3 +24,7 @@ Why is the energy increase/decrease (change) called work? What meaning does this
 ## Today I had an intriguing idea:
 
 The GP energy, kinetic and other energies for an object on a roller coaster loop should be similar to the one for an an incline up and down, as the roller coaster is just going up, then coming back down albeit in a slightly loop fashion.
+
+## Analysis
+
+This post also connects to #5d and #5e. It demonstrates an understanding of kinetic and gravitational potential energy through the ball and ramp lab. When the ball rolls down the ramp, it is a very simple and easy to understand yet extremely clear example of what kinetic and GP energy is. GP energy is demonstrated when bringing the ball to the top of the ramp. Of course, the energy is not visible to the eye. However, we can see the kinetic energy as the ball rolls down the ramp. The kinetic energy is motion, so we can see what that is. But where did that energy come from? It must have come from somewhere, as no new energy is created or destroyed. The answer would be GP energy, which is due to the force of the earth's gravity.
