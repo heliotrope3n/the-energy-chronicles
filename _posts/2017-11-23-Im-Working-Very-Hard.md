@@ -24,3 +24,7 @@ If kinematics lead to forces which lead to energy, will energy lead to electrici
 ## Today I had an intriguing idea:
 
 The idea of work in intuitive terms is different from work in physics terms. Work in intuitive terms is using energy, even if nothing is happening. In physics, it means that something useful must be done, for example moving an object. There is a similar misconception in forces and constant velocity. Constant velocity can be achived with no force (if there is no external forces acting on it), which is hard to believe from daily intuition that an object can keep moving forward if there is nothing moving it. Force is an acceleration, a change in velocity, and that is quite important just like how physics work must be useful work.
+
+## Analysis
+
+This post connects to requirement #5a. This was the day where we learned about what work is, the equation, net work, and many other work concepts. This lesson was actually quite important, a lot of energy and thermodynamics concepts were built upon the idea of work.
