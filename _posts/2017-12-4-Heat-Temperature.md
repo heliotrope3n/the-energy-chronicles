@@ -41,7 +41,7 @@ Today, one of the intriguing ideas that I learned from class was about opening t
 
 I noticed, that for humans to come so far in their intellectual abilities and knowledge, it required particles to form in certain ways and behave in certain manners. The human brain, is just particles after all. It is [metacognition](https://en.wikipedia.org/wiki/Metacognition)... Particles are studying particles!
 
-## Analysis
+## After Unit Reflection
 
 This post connects to requirement #5g. It explains thermal energy, and the differences/similarities between it and heat and temperature. It also goes a bit into heat transfer, which is the transfer of thermal energy. These terms are usually confused, and after learning about it in class, how the above ties into the big picture became much clearer.
 

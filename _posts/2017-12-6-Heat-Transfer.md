@@ -41,6 +41,6 @@ Something that I found intriguing was that ice would melt faster on cold aluminu
 
 I had a wild idea too. If global warming is such a huge problem, there must be a way to capture and store large amounts of heat in materials with high heat capacities. Then, such materials could be sent off into outer space which could resolve the problem of global warming. Of course, this is very wild and does not consider any other problems (societal, economic, environmental), just that it could take heat away from earth.
 
-## Analysis
+## After Unit Reflection
 
 This post best connects to requirement #5h for heat transfer. In the previous post, transfer was discussed but in this post there is a great example. It shows that heat transfer is different from temperature. If something feels colder to our hands, it doesn't necessarily mean the temperatuere is colder. It just means that it is transferring away heat from our hands faster. This is a common misconception, and it is one of the interesting things that I have learned in this class.

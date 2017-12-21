@@ -34,6 +34,6 @@ How can the potential energy of weird objects be measured? For example the poppe
 
 I found that the poppers today were quite interesting. A lot of energy was stored in just a small package, and the popper was able to bounce very high. I would imagine that the popper would not be as efficient with energy if it was made larger, as it the weight may outweigh it's ability to jump up as much. However, there could be lots of potential uses for this popper in launching, and maybe something similar to a giant trampoline could be used to launch spacecraft and airplanes. This would be quite efficient, as it would provide a boost to the launch.
 
-## Analysis
+## After Unit Reflection
 
 This post connects to requirement #3. This was the day we used poppers, and it was a good example of energy conversions. Since a popper has a lot of elastic potential energy, it can bounce very high. This converts to kinetic energy, which is used to gain height, which gives it GP energy. Then, it falls back down, converting GP energy to kinetic energy. The total energy won't change apart from externalities, which means energy is conserved.

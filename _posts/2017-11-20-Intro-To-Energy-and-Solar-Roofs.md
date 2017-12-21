@@ -38,6 +38,6 @@ Why is 60% of the power generated in America gone to waste? That is an extremely
 
 Why don't we just reduce the number of time power has to be transformed for maximum efficiency? For example, when transferring electricity, less transformations would mean that less power and lost, and more efficiency is gained.
 
-## Post Analysis
+## After Unit Reflection
 
 This post connects to requirement #2. It discusses the impacts of solar roofs, and there are truly a lot of impacts if solar roofs are commercially viable and found to be useful for generating energy. As mentioned above, it would solve a lot of energy problems - especially for power generation. It would also impact things like power distribution, as this could be installed on everyone's houses and as batteries get bigger and better, more power could be stored. There is a picture of a tesla solar roof, which is one of the solar roofs that are currently available. Of course, as the tech improves more types of roofs will be avaiable, increasing competition, increasing innovation, and lowering prices.

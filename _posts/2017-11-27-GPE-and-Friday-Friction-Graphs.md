@@ -21,6 +21,9 @@ The mass of an object does not matter when calculating the final velocity at the
 
 I also finished the work that I missed on Friday for graphing the frictional forces. This included taking sample data, and graphing with the units. The data also had error for each datapoint, but Google Sheets could not display a graph with various error bars, so I averaged the datapoints. I also took the slope, and the units from it. Finally, the results were compared to a target result, and an error percentage was taken (around 5%, not too bad). There was also work to be done with roller coasters, and that involved writing the energies involved when going around a loop de loop and up inclines. As the roller coaster goes down the hill, it gains kinetic energy from the GP energy it had from when it was very high. It then uses that kinetic energy to go up another hill or loop, and gains GP energy again. On a perfect frictionless track this would mean that the roller coaster could just keep going up and down forever. But in real life, there is energy lost to vibration, friction and other forces that take away energy. The energy transformations aren't perfect, and that's why roller coaster hills keep getting smaller.
 
+![GPE work1]({{ site.url }}/images/2017-11-27-gpework.jpg){: .fullwidth }
+![GPE work1]({{ site.url }}/images/2017-11-27-gpework1.jpg){: .fullwidth }
+
 ## Today I wondered:
 
 I still wondered why there is a 1/2 in 1/2 mk^2 and why k is squared. I looked at the wikipedia page, but it said it had to do with calculus and other advanced maths, so I am not too sure.
@@ -35,7 +38,7 @@ The shortest path is not always the fastest path. It is the path that allows you
 
 People don't get to a destination faster than someone else, they get there in less time than someone else. In the case of the ball, one doesn't end faster than the other, but the time is different.
 
-## Analysis
+## After Unit Reflection
 
 This post connects to requirement #1.  It discusses the applications of energy transformations to a roller coaster that which was one of the worksheets that we did. The real world isn't frictionless, and rollercoasters hills must get lower and lower as they get to the end. Most energy transformations involve some loss of energy to heat, sound, vibration or friction. Maybe a maglev roller coaster can help reduce the friction...
 

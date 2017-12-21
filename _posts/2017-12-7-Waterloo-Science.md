@@ -94,6 +94,6 @@ This is a nanotechnolgy lab. It is built on a separate foundation designed to re
 
 ![NanoTech]({{ site.url }}/images/2017-12-07-nanotech.jpg){: .fullwidth }
 
-## Analysis
+## After Unit Reflection
 
 This post connects to requirement #2. This whole day was quite interesting, and there were a lot of applications for the technologies and concepts that we learned about today. The most interesting ones to me were probably the ones for quantum computing, which uses the energies of quantum particles. These can be used to encrypt messages, and could also provide an enormous amount of computing power for the world. The other one is the liquid nitrogen car, which takes away thermal energy from the magnet in order for it to work. The electromagnetivity of the magnet could possibly be used to power maglev trains cheaply, and this would reduce transportation costs.
