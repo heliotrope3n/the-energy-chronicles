@@ -38,3 +38,5 @@ People don't get to a destination faster than someone else, they get there in le
 ## Analysis
 
 This post connects to requirement #1.  It discusses the applications of energy transformations to a roller coaster that which was one of the worksheets that we did. The real world isn't frictionless, and rollercoasters hills must get lower and lower as they get to the end. Most energy transformations involve some loss of energy to heat, sound, vibration or friction. Maybe a maglev roller coaster can help reduce the friction...
+
+This post also conncts to requirement #3. It includes problems involving the energy transformation problems of a roller coaster.

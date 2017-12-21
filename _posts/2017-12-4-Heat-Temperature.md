@@ -23,7 +23,7 @@ There are three main ways of heat transfer:
 2. Convection - transfer of heat through the movement of fluids.
 3. Radiation - transfer of heat through light.
 
-Heat transfer is the transfer of thermal energy due a temperature difference.
+Heat transfer is the transfer of thermal energy due a temperature difference. The amount of heat lost is always the amount of heat gained between two objects - no new energy can be created.
 
 Two objects will always tend towards thermal equilibrium, which means their temperatures are the same. Through the different ways of heat transfer, they will tend towards a middle temperature.
 
@@ -44,3 +44,5 @@ I noticed, that for humans to come so far in their intellectual abilities and kn
 ## Analysis
 
 This post connects to requirement #5g. It explains thermal energy, and the differences/similarities between it and heat and temperature. It also goes a bit into heat transfer, which is the transfer of thermal energy. These terms are usually confused, and after learning about it in class, how the above ties into the big picture became much clearer.
+
+This post also connects to requirement #3. It applies the law of conservation of energy to thermal physics, if we assume the two objects transferring energy are isolated. No energy is gained or lost when the objects are transferring, and so heat cannot be gained or lost in an isolated system when two objects are transferring energy.

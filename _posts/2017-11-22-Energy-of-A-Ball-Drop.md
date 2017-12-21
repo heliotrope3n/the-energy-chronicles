@@ -34,3 +34,6 @@ I wonder what the energy graphs would look like for a skydiver. At first it woul
 ## Analysis
 
 This post connects to requirement #3, as it is a demonstration of the conversion between kinetic energy and gravitational potential energy. It also mostly demonstrates the law of conservation of energy. When the ball is dropped, it loses the energy it gained from going up so high, and the energy is transformed into kinetic motion so that the ball starts moving faster. The ball also loses virtually no energy, so it conserves mechanical energy which is a great example of the law of conservation of energy.
+
+
+This post also connects to requirement #4. There are energy problems that are solved involving a ball and a drop, which have equations that can be used to calculate the final velocities and energies.

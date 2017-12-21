@@ -66,6 +66,8 @@ This explained the light spectrums when viewing from a quadrilateral shaped devi
 
 **Electric Field and LEDs: **
 
+We turned on an LED with only an electric field. If you stand with the legs of the LED facing the electric field, the electrons emitted will power up the LED. All you have to do is hold it.
+
 At the end, there was a fascinating discussion where we (and the professor) discussed the potential applications for each of the concepts at each station. We also learned about gravity, and how the theory we have been learning all along is wrong. The example demonstrated to us was an accelerometer that measured instantaneous accleration. When getting faster to the right, the lights would show up on the right. When getting faster to the left, the lights would turn on on the left. But the most exciting thing was when he turned the accelerometer on its side - the lights were now pointing up and down. When he held the accelerometer still, the lights were on in the upwards direction, signifying accleration was in the upwards direction. This blew my mind away, and raised a lot of questions about how we perceive the world today. Apparently it was Einstein that first came up with this theory, and today it is the most accepted theory of how gravity works.
 
 ## Today I wondered:
@@ -91,3 +93,7 @@ This morning, I took the school bus from home to school. Then, I took another bu
 This is a nanotechnolgy lab. It is built on a separate foundation designed to resist earthquakes and any miniscule movement. It has orange glass to stop harmful light from going out. 
 
 ![NanoTech]({{ site.url }}/images/2017-12-07-nanotech.jpg){: .fullwidth }
+
+## Analysis
+
+This post connects to requirement #2. This whole day was quite interesting, and there were a lot of applications for the technologies and concepts that we learned about today. The most interesting ones to me were probably the ones for quantum computing, which uses the energies of quantum particles. These can be used to encrypt messages, and could also provide an enormous amount of computing power for the world. The other one is the liquid nitrogen car, which takes away thermal energy from the magnet in order for it to work. The electromagnetivity of the magnet could possibly be used to power maglev trains cheaply, and this would reduce transportation costs.
