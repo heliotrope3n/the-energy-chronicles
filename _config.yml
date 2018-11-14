@@ -2,6 +2,6 @@ name: the ENERGY CHRONICLES
 markdown: kramdown
 paginate:    7
 paginate_path: "page:num"
-url: https://heliotrope3n.github.io/the-energy-chronicles
+url: https://ningsongshen.github.io/the-energy-chronicles
 plugins:
   - jekyll-sitemap
