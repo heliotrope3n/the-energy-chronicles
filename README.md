@@ -1,6 +1,8 @@
 # the ENERGY CHRONICLES
 
-heliotrope3n.github.io/the-energy-chronicles
+ningsongshen.github.io/the-energy-chronicles
+
+A place for energy happenings in Grade 11 physics.
 
 Ningsong Shen. Grade 11 Physics student. Learning about ENERGY. Website updates daily. Never finished. #FongFizX
 
